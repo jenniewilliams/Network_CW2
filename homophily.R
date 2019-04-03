@@ -1,6 +1,6 @@
 # Read in csv files manipulated in Python......
 
-# K1758331/1769227 Network coursework
+# K1758331/1769227 Network coursework - Jennie Williams
 
 #install.packages("igraph") 
 #install.packages("network") 
